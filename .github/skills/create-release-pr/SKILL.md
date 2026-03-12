@@ -1,0 +1,1 @@
+/Users/ayaka/Desktop/projects/private/claude-code-skills-test/.claude/skills/create-release-pr/SKILL.md
